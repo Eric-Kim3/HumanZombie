@@ -1,0 +1,18 @@
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\bin\Debug\HZBitmap.exe.config
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\bin\Debug\HZBitmap.exe
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\bin\Debug\HZBitmap.pdb
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.HvsZ.resources
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.Properties.Resources.resources
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.csproj.GenerateResource.Cache
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.exe
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.pdb
+C:\Users\EK_SP4\Documents\Visual Studio 2015\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.csprojResolveAssemblyReference.cache
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\bin\Debug\HZBitmap.exe.config
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.exe
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.pdb
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\bin\Debug\HZBitmap.exe
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\bin\Debug\HZBitmap.pdb
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.csprojResolveAssemblyReference.cache
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.HvsZ.resources
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.Properties.Resources.resources
+C:\Users\EK_SP4\Desktop\MSSA\Projects\HZBitmap\HZBitmap\obj\Debug\HZBitmap.csproj.GenerateResource.Cache
